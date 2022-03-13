@@ -1,2 +1,2 @@
 # Bluenova_assesment
-Building a model to see how many customers churn and why
+Building a model to predict how many customers churn and why
